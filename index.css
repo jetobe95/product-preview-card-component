@@ -138,6 +138,7 @@ body {
 
   .card__button {
     width: 236px;
+    transition: background-color .5s;
 
     &:hover {
       background-color: #1A4032;
